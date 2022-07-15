@@ -1,3 +1,4 @@
+area of circle code
 public class Main{
     public static void main(String[] a){
         Circle c1 = new Circle(10f);
